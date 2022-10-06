@@ -125,3 +125,10 @@ h3 {
         font-weight: 600;
         line-height: 150%;
 }
+
+.header-container {
+    display: flex;    
+    flex-wrap: wrap;    
+    row-gap: 10px;     
+    column-gap: 10px;
+}
